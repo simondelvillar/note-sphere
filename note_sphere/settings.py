@@ -26,7 +26,7 @@ SECRET_KEY = 'django-insecure-zy7rce4ineoqvk5g+#3uv7bk2@!@@$t#s!b-lvgu=p9!tcl)@7
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'notesphere.onrender.com']
+ALLOWED_HOSTS = ['127.0.0.1', 'localhost', 'notesphere-vh8c.onrender.com']
 
 
 # Application definition
